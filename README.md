@@ -1,6 +1,6 @@
-# Instagram Clone
+# Networking Application
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive Networking App- Works on Android, iOS & Web! 
 
 ## Features
 - Responsive Instagram UI
