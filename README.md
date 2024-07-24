@@ -23,7 +23,7 @@ I have created a tutorial based on this.
 
 
 ## Installation
-After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```kietgram app``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
